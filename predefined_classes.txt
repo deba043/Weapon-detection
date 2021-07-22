@@ -1,0 +1,6 @@
+Guns
+Knife
+Helmet
+Hammer
+Mask
+Person
